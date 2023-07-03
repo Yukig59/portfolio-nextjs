@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Budget Manager App",
+    "category": "Symfony",
+    "description": "A tool to track company budgets, and see live data and analytics.",
+    "link": "/budget-manager-app",
+    "details": {
+      "langages": [
+        "php",
+        "twig",
+        "sass"
+      ],
+      "frameworks": [
+        "symfony"
+      ],
+      "tools": [
+        "composer",
+        "powerbi"
+      ],
+      "project_details": "This project took place at the Public Urbain Community - Le Havre (France) where I worked 2 years as a developper. It was designed to be used as an intern tool, to track the budget lines of any service and create dynamic reports with PowerBI"
+    }
+  },
+  {
+    "title": "Court Late Allowance Calculator",
+    "category": "Next.js",
+    "description": "A tool to calculate how much the French Government owe you for being late.",
+    "link": "/dal-calculator",
+    "details": {
+      "langages": [
+        "javascript",
+        "typescript",
+        "bash",
+        "sass",
+        "jsx"
+      ],
+      "frameworks": [
+        "next.js",
+        "node.js"
+      ],
+      "tools": [
+        "react",
+        "prettier",
+        "pm2"
+      ],
+      "project_details": "This project is an innovative idea from Sagan Lawyers, Paris. Any user can, thanks to the tool, see how much they can ask the court for the late allowance."
+    }
+  },
+  {
+    "title": "Minting API",
+    "category": "Wab3",
+    "description": "An API to create and mint any NFT on the Solana Blockchain",
+    "link": "/minting-api",
+    "details": {
+      "langages": [
+        "rust",
+        "javascript"
+      ],
+      "frameworks": [
+        "anchor",
+        "express"
+      ],
+      "tools": [
+        "react",
+        "swagger",
+        "discord.js"
+      ],
+      "project_details": "I worked as a freelance for a Web3 project that needed a minting API on the solana blockchain. Users can, via API calls, create, upload and mint their own NFT, making easy the NFT minting on the Solana Ecosystem"
+    }
+  }
+]
