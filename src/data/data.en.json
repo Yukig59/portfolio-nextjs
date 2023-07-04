@@ -3,7 +3,7 @@
     "title": "Budget Manager App",
     "category": "Symfony",
     "description": "A tool to track company budgets, and see live data and analytics.",
-    "link": "/budget-manager-app",
+    "link": "/en/budget-manager-app",
     "details": {
       "langages": [
         "php",
@@ -24,7 +24,7 @@
     "title": "Court Late Allowance Calculator",
     "category": "Next.js",
     "description": "A tool to calculate how much the French Government owe you for being late.",
-    "link": "/dal-calculator",
+    "link": "/en/dal-calculator",
     "details": {
       "langages": [
         "javascript",
@@ -47,9 +47,9 @@
   },
   {
     "title": "Minting API",
-    "category": "Wab3",
+    "category": "Web3",
     "description": "An API to create and mint any NFT on the Solana Blockchain",
-    "link": "/minting-api",
+    "link": "/en/minting-api",
     "details": {
       "langages": [
         "rust",

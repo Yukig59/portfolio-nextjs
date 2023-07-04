@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Gestionnaire de Budget",
+    "category": "Symfony",
+    "description": "Un outil pour suivre le budget en temps réel, ainsi que des stats",
+    "link": "/fr/budget-manager-app",
+    "details": {
+      "langages": [
+        "php",
+        "twig",
+        "sass"
+      ],
+      "frameworks": [
+        "symfony"
+      ],
+      "tools": [
+        "composer",
+        "powerbi"
+      ],
+      "project_details": "Ce projet à eu lieu à la Communauté Urbaine Le Havre Seine Métropole. Il s'agit d'un outil permettant de suivre le budget en temps réel, ainsi que des stats. Il est utilisé par les élus et les agents de la collectivité pour garder un oeil sur leurs budgets de service."
+    }
+  },
+  {
+    "title": "Calculateur des Délais Anormalement Longs de Justice",
+    "category": "Next.js",
+    "description": "Un outil pour calculer l'indémnité de retard que doit l'état à des victimes de la lenteur de la justice Française.",
+    "link": "/fr/dal-calculator",
+    "details": {
+      "langages": [
+        "javascript",
+        "typescript",
+        "bash",
+        "sass",
+        "jsx"
+      ],
+      "frameworks": [
+        "next.js",
+        "node.js"
+      ],
+      "tools": [
+        "react",
+        "prettier",
+        "pm2"
+      ],
+      "project_details": "Ce projet est une idée innovative de Sagan Avocats, Paris. N'importe quel utilisateur peut, avec l'outil, savoir combien l'état lui doit en termes d'indemnités"
+    }
+  },
+  {
+    "title": "Mint API",
+    "category": "Web3",
+    "description": "Un projet permettant de créer et minter n'importe quel NFT sur la blockchain SOLANA",
+    "link": "/fr/minting-api",
+    "details": {
+      "langages": [
+        "rust",
+        "javascript"
+      ],
+      "frameworks": [
+        "anchor",
+        "express"
+      ],
+      "tools": [
+        "react",
+        "swagger",
+        "discord.js"
+      ],
+      "project_details": "J'ai travaillé en tant que freelance pour un projet web3 qui avait besoin d'une API afin de minter des NFT (individuels ou des collections). Grâce aux fonctions API, ils peuvent dorénavant créer, uploader et minter leur propre NFT, rendant plus simple le minting de NFT dans l'écosystème Solana."
+    }
+  }
+]
